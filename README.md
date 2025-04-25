@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/simon-kansara-ableton-live-mcp-server-badge.jpg)](https://mseep.ai/app/simon-kansara-ableton-live-mcp-server)
+
 # Ableton Live MCP Server
 
 ## 📌 Overview
